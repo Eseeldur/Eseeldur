@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning python, ansible, jenkins, docker
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
-https://vk.com/id125157286
+tg: @Elderik
 ramazanovildar13@mail.ru
